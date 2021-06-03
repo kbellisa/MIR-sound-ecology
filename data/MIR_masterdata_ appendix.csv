@@ -1,0 +1,181 @@
+No.,File Name,biophony,geophony,anthrophony,conditional factor,SEM class,Time,Site
+14,Arizona_H1_U_T1_H1-NO-R3_20140606_080000,0,0,0,4,biophony,1-dawn,Arizona
+18,Arizona_H1_U_T1_H1-NO-R3_20140901_060000,0,0,0,4,biophony,1-dawn,Arizona
+1,Arizona_H1_U_T1_H1-NO-R3_20140313_060000,1,1,0,6,geophony,1-dawn,Arizona
+2,Arizona_H1_U_T1_H1-NO-R3_20140316_080000,1,1,0,6,geophony,1-dawn,Arizona
+3,Arizona_H1_U_T1_H1-NO-R3_20140320_063000,1,1,0,6,geophony,1-dawn,Arizona
+4,Arizona_H1_U_T1_H1-NO-R3_20140421_080000,1,1,0,6,geophony,1-dawn,Arizona
+5,Arizona_H1_U_T1_H1-NO-R3_20140422_060000,1,1,0,6,geophony,1-dawn,Arizona
+6,Arizona_H1_U_T1_H1-NO-R3_20140427_060000,1,1,0,6,geophony,1-dawn,Arizona
+7,Arizona_H1_U_T1_H1-NO-R3_20140430_060000,1,1,0,6,geophony,1-dawn,Arizona
+8,Arizona_H1_U_T1_H1-NO-R3_20140430_080000,1,1,0,6,geophony,1-dawn,Arizona
+10,Arizona_H1_U_T1_H1-NO-R3_20140502_063000,1,1,0,6,geophony,1-dawn,Arizona
+11,Arizona_H1_U_T1_H1-NO-R3_20140506_070000,1,1,0,6,geophony,1-dawn,Arizona
+12,Arizona_H1_U_T1_H1-NO-R3_20140603_060000,1,1,0,6,geophony,1-dawn,Arizona
+13,Arizona_H1_U_T1_H1-NO-R3_20140603_063000,1,1,0,6,geophony,1-dawn,Arizona
+15,Arizona_H1_U_T1_H1-NO-R3_20140608_060000,1,1,0,6,geophony,1-dawn,Arizona
+17,Arizona_H1_U_T1_H1-NO-R3_20140612_063000,1,1,0,6,geophony,1-dawn,Arizona
+19,Arizona_H1_U_T1_H1-NO-R3_20140905_070000,1,1,0,6,geophony,1-dawn,Arizona
+20,Arizona_H1_U_T1_H1-NO-R3_20140914_080000,1,1,0,6,geophony,1-dawn,Arizona
+21,Arizona_H1_U_T1_H1-NO-R3_20141003_060000,1,1,0,6,geophony,1-dawn,Arizona
+22,Arizona_H1_U_T1_H1-NO-R3_20141003_063000,1,1,0,6,geophony,1-dawn,Arizona
+9,Arizona_H1_U_T1_H1-NO-R3_20140502_060000,0,1,0,7,anthrophony,1-dawn,Arizona
+16,Arizona_H1_U_T1_H1-NO-R3_20140610_063000,1,0,1,7,anthrophony,1-dawn,Arizona
+42,Arizona_H1_U_T3_H1-NO-R3_20140906_190000,0,0,0,4,biophony,3-dusk,Arizona
+43,Arizona_H1_U_T3_H1-NO-R3_20140908_200000,0,0,0,4,biophony,3-dusk,Arizona
+37,Arizona_H1_U_T3_H1-NO-R3_20140320_180000,1,1,0,6,geophony,3-dusk,Arizona
+38,Arizona_H1_U_T3_H1-NO-R3_20140425_180000,1,1,0,6,geophony,3-dusk,Arizona
+39,Arizona_H1_U_T3_H1-NO-R3_20140505_190000,1,1,0,6,geophony,3-dusk,Arizona
+40,Arizona_H1_U_T3_H1-NO-R3_20140601_180000,1,1,0,6,geophony,3-dusk,Arizona
+41,Arizona_H1_U_T3_H1-NO-R3_20140603_180000,1,1,0,6,geophony,3-dusk,Arizona
+44,Arizona_H1_U_T3_H1-NO-R3_20140914_180000.flac,1,1,0,6,geophony,3-dusk,Arizona
+45,Arizona_H1_U_T3_H1-NO-R3_20140917_180000.flac,1,1,0,6,geophony,3-dusk,Arizona
+46,Arizona_H1_U_T3_H1-NO-R3_20140917_20000.flac,1,1,0,6,geophony,3-dusk,Arizona
+53,Arizona_H1_U_T4_H1-NO-R3_20140605_010000,1,0,0,4,biophony,4-late evening,Arizona
+55,Arizona_H1_U_T4_H1-NO-R3_20140612_230000,0,0,0,4,biophony,4-late evening,Arizona
+56,Arizona_H1_U_T4_H1-NO-R3_20140619_000000,0,0,0,4,biophony,4-late evening,Arizona
+57,Arizona_H1_U_T4_H1-NO-R3_20140916_010000,0,0,0,4,biophony,4-late evening,Arizona
+58,Arizona_H1_U_T4_H1-NO-R3_20141002_010000,1,0,0,4,biophony,4-late evening,Arizona
+59,Arizona_H1_U_T4_H1-NO-R3_20141006_000000,1,0,0,4,biophony,4-late evening,Arizona
+60,Arizona_H1_U_T4_H1-NO-R3_20141007_010000,0,0,0,4,biophony,4-late evening,Arizona
+47,Arizona_H1_U_T4_H1-NO-R3_20140320_010000.flac,1,1,0,6,geophony,4-late evening,Arizona
+48,Arizona_H1_U_T4_H1-NO-R3_20140419_010000.flac,1,1,0,6,geophony,4-late evening,Arizona
+49,Arizona_H1_U_T4_H1-NO-R3_20140419_230000.flac,1,1,0,6,geophony,4-late evening,Arizona
+50,Arizona_H1_U_T4_H1-NO-R3_20140425_000000.flac,1,1,0,6,geophony,4-late evening,Arizona
+51,Arizona_H1_U_T4_H1-NO-R3_20140502_230000.flac,1,1,0,6,geophony,4-late evening,Arizona
+52,Arizona_H1_U_T4_H1-NO-R3_20140601_000000,1,1,0,6,geophony,4-late evening,Arizona
+54,Arizona_H1_U_T4_H1-NO-R3_20140609_230000,0,1,0,6,geophony,4-late evening,Arizona
+24,Arizona_H1_U_T2_H1-NO-R3_20140306_130000,1,1,0,6,geophony,2-midday,Arizona
+25,Arizona_H1_U_T2_H1-NO-R3_20140310_120000,0,1,0,6,geophony,2-midday,Arizona
+26,Arizona_H1_U_T2_H1-NO-R3_20140316_120000,1,1,0,6,geophony,2-midday,Arizona
+27,Arizona_H1_U_T2_H1-NO-R3_20140419_110000,0,1,0,6,geophony,2-midday,Arizona
+28,Arizona_H1_U_T2_H1-NO-R3_20140420_130000,0,1,0,6,geophony,2-midday,Arizona
+29,Arizona_H1_U_T2_H1-NO-R3_20140422_130000,1,1,0,6,geophony,2-midday,Arizona
+30,Arizona_H1_U_T2_H1-NO-R3_20140502_130000,1,1,0,6,geophony,2-midday,Arizona
+31,Arizona_H1_U_T2_H1-NO-R3_20140504_130000,1,1,0,6,geophony,2-midday,Arizona
+34,Arizona_H1_U_T2_H1-NO-R3_20140914_120000,1,1,0,6,geophony,2-midday,Arizona
+35,Arizona_H1_U_T2_H1-NO-R3_20140918_110000,1,1,0,6,geophony,2-midday,Arizona
+36,Arizona_H1_U_T2_H1-NO-R3_20141003_130000,0,1,0,6,geophony,2-midday,Arizona
+23,Arizona_H1_U_T2_H1-NO-R3_20140306_120000,1,1,1,7,anthrophony,2-midday,Arizona
+32,Arizona_H1_U_T2_H1-NO-R3_20140905_110000,1,1,1,7,anthrophony,2-midday,Arizona
+33,Arizona_H1_U_T2_H1-NO-R3_20140906_110000,0,1,1,7,anthrophony,2-midday,Arizona
+62,Laselva_exswamp_2011_T1_EXPSWAMP_20110813_074523,1,0,0,4,biophony,1-dawn,Costa Rica
+63,Laselva_exswamp_2011_T1_EXPSWAMP_20110813_083023,0,0,0,4,biophony,1-dawn,Costa Rica
+64,Laselva_exswamp_2011_T1_EXPSWAMP_20110817_060000,1,0,0,4,biophony,1-dawn,Costa Rica
+65,Laselva_exswamp_2011_T1_EXPSWAMP_20110825_080000,0,0,0,4,biophony,1-dawn,Costa Rica
+66,Laselva_exswamp_2011_T1_EXPSWAMP_20110826_061500,0,0,0,4,biophony,1-dawn,Costa Rica
+67,Laselva_exswamp_2011_T1_EXPSWAMP_20110827_064500,1,0,0,4,biophony,1-dawn,Costa Rica
+68,Laselva_exswamp_2011_T1_EXPSWAMP_20110831_070000,1,0,0,4,biophony,1-dawn,Costa Rica
+69,Laselva_exswamp_2011_T1_EXPSWAMP_20110904_071508,1,0,0,4,biophony,1-dawn,Costa Rica
+71,Laselva_exswamp_2011_T1_EXPSWAMP_20110909_073000,0,0,0,4,biophony,1-dawn,Costa Rica
+72,Laselva_exswamp_2011_T1_EXPSWAMP_20110922_080000,0,0,0,4,biophony,1-dawn,Costa Rica
+74,Laselva_exswamp_2011_T1_EXPSWAMP_20110927_074502,0,0,0,4,biophony,1-dawn,Costa Rica
+75,Laselva_exswamp_2011_T1_EXPSWAMP_20110927_080002,0,0,0,4,biophony,1-dawn,Costa Rica
+76,Laselva_exswamp_2011_T1_EXPSWAMP_20110929_074500,1,0,0,4,biophony,1-dawn,Costa Rica
+61,Laselva_exswamp_2011_T1_015087_20150118_083000,1,0,0,6,geophony,1-dawn,Costa Rica
+78,Laselva_exswamp_2011_T1_EXPSWAMP_20111003_073000,1,1,0,6,geophony,1-dawn,Costa Rica
+70,Laselva_exswamp_2011_T1_EXPSWAMP_20110908_073000,1,0,0,7,anthrophony,1-dawn,Costa Rica
+73,Laselva_exswamp_2011_T1_EXPSWAMP_20110926_071501,0,0,1,7,anthrophony,1-dawn,Costa Rica
+77,Laselva_exswamp_2011_T1_EXPSWAMP_20111003_060000,0,1,1,7,anthrophony,1-dawn,Costa Rica
+93,Laselva_exswamp_2011_T3_015087_20150115_193000,0,1,1,4,biophony,3-dusk,Costa Rica
+94,Laselva_exswamp_2011_T3_015087_20150118_180000,0,1,0,4,biophony,3-dusk,Costa Rica
+95,Laselva_exswamp_2011_T3_EXPSWAMP_20110810_191515,0,0,0,4,biophony,3-dusk,Costa Rica
+96,Laselva_exswamp_2011_T3_EXPSWAMP_20110811_191518,0,0,0,4,biophony,3-dusk,Costa Rica
+97,Laselva_exswamp_2011_T3_EXPSWAMP_20110812_203021,0,0,0,4,biophony,3-dusk,Costa Rica
+99,Laselva_exswamp_2011_T3_EXPSWAMP_20110818_180004,0,0,0,4,biophony,3-dusk,Costa Rica
+100,Laselva_exswamp_2011_T3_EXPSWAMP_20110820_191500,0,0,0,4,biophony,3-dusk,Costa Rica
+101,Laselva_exswamp_2011_T3_EXPSWAMP_20110821_183000,0,0,0,4,biophony,3-dusk,Costa Rica
+102,Laselva_exswamp_2011_T3_EXPSWAMP_20110821_204500,0,0,0,4,biophony,3-dusk,Costa Rica
+104,Laselva_exswamp_2011_T3_EXPSWAMP_20110827_194501,0,0,0,4,biophony,3-dusk,Costa Rica
+105,Laselva_exswamp_2011_T3_EXPSWAMP_20110828_184503,0,0,0,4,biophony,3-dusk,Costa Rica
+106,Laselva_exswamp_2011_T3_EXPSWAMP_20110828_203004,0,0,0,4,biophony,3-dusk,Costa Rica
+107,Laselva_exswamp_2011_T3_EXPSWAMP_20110831_183000,1,0,0,4,biophony,3-dusk,Costa Rica
+108,Laselva_exswamp_2011_T3_EXPSWAMP_20110904_180010,1,0,0,4,biophony,3-dusk,Costa Rica
+109,Laselva_exswamp_2011_T3_EXPSWAMP_20110926_194502,1,0,0,4,biophony,3-dusk,Costa Rica
+110,Laselva_exswamp_2011_T3_EXPSWAMP_20110929_190000,0,0,1,4,biophony,3-dusk,Costa Rica
+98,Laselva_exswamp_2011_T3_EXPSWAMP_20110813_204526,1,1,0,6,geophony,3-dusk,Costa Rica
+103,Laselva_exswamp_2011_T3_EXPSWAMP_20110823_180006,1,1,0,6,geophony,3-dusk,Costa Rica
+112,Laselva_exswamp_2011_T4_EXPSWAMP_20110811_004516,1,0,0,4,biophony,4-late evening,Costa Rica
+113,Laselva_exswamp_2011_T4_EXPSWAMP_20110811_230019,1,0,0,4,biophony,4-late evening,Costa Rica
+114,Laselva_exswamp_2011_T4_EXPSWAMP_20110815_004500,0,1,0,4,biophony,4-late evening,Costa Rica
+115,Laselva_exswamp_2011_T4_EXPSWAMP_20110820_010000,1,0,0,4,biophony,4-late evening,Costa Rica
+116,Laselva_exswamp_2011_T4_EXPSWAMP_20110824_010007,0,0,0,4,biophony,4-late evening,Costa Rica
+118,Laselva_exswamp_2011_T4_EXPSWAMP_20110922_004500,0,0,0,4,biophony,4-late evening,Costa Rica
+119,Laselva_exswamp_2011_T4_EXPSWAMP_20110923_011500,0,0,0,4,biophony,4-late evening,Costa Rica
+120,Laselva_exswamp_2011_T4_EXPSWAMP_20110925_231500,0,0,0,4,biophony,4-late evening,Costa Rica
+111,Laselva_exswamp_2011_T4_015087_20150119_013000,1,1,0,6,geophony,4-late evening,Costa Rica
+117,Laselva_exswamp_2011_T4_EXPSWAMP_20110904_013007,1,1,0,6,geophony,4-late evening,Costa Rica
+84,Laselva_exswamp_2011_T2_EXPSWAMP_20110831_124500,0,0,0,4,biophony,2-midday,Costa Rica
+87,Laselva_exswamp_2011_T2_EXPSWAMP_20110904_113009,0,0,0,4,biophony,2-midday,Costa Rica
+91,Laselva_exswamp_2011_T2_EXPSWAMP_20111001_110000,0,0,0,4,biophony,2-midday,Costa Rica
+92,Laselva_exswamp_2011_T2_EXPSWAMP_20111004_134500,0,0,0,4,biophony,2-midday,Costa Rica
+79,Laselva_exswamp_2011_T2_015087_20150113_123000,1,1,0,6,geophony,2-midday,Costa Rica
+80,Laselva_exswamp_2011_T2_015087_20150115_113000,1,0,1,6,geophony,2-midday,Costa Rica
+81,Laselva_exswamp_2011_T2_015087_20150115_130000,1,0,1,6,geophony,2-midday,Costa Rica
+82,Laselva_exswamp_2011_T2_015087_20150117_123000,1,1,0,6,geophony,2-midday,Costa Rica
+83,Laselva_exswamp_2011_T2_EXPSWAMP_20110812_120020,1,1,0,6,geophony,2-midday,Costa Rica
+85,Laselva_exswamp_2011_T2_EXPSWAMP_20110902_134503,1,1,0,6,geophony,2-midday,Costa Rica
+88,Laselva_exswamp_2011_T2_EXPSWAMP_20110909_130000,1,1,0,6,geophony,2-midday,Costa Rica
+89,Laselva_exswamp_2011_T2_EXPSWAMP_20110923_110000,1,0,0,6,geophony,2-midday,Costa Rica
+90,Laselva_exswamp_2011_T2_EXPSWAMP_20110930_110000,1,1,0,6,geophony,2-midday,Costa Rica
+86,Laselva_exswamp_2011_T2_EXPSWAMP_20110903_121506,0,0,1,7,anthrophony,2-midday,Costa Rica
+122,Wells_PilgerPoint_U_T1_015100_20140530_080000,1,0,0,4,biophony,1-dawn,Maine
+123,Wells_PilgerPoint_U_T1_015100_20140531_060000,1,0,1?,4,biophony,1-dawn,Maine
+124,Wells_PilgerPoint_U_T1_015100_20140625_083000,1,0,1?,4,biophony,1-dawn,Maine
+128,Wells_PilgerPoint_U_T1_015100_20140901_073000,1,0,1?,4,biophony,1-dawn,Maine
+129,Wells_PilgerPoint_U_T1_015100_20140911_083000,1,1,0,6,geophony,1-dawn,Maine
+131,Wells_PilgerPoint_U_T1_015100_20141001_070000,1,1,0,6,geophony,1-dawn,Maine
+132,Wells_PilgerPoint_U_T1_015100_20141001_083000,1,1,1,6,geophony,1-dawn,Maine
+137,Wells_PilgerPoint_U_T1_015100_20141101_080000,1,1,0,6,geophony,1-dawn,Maine
+121,Wells_PilgerPoint_U_T1_015100_20140505_073000,1,0,1,7,anthrophony,1-dawn,Maine
+125,Wells_PilgerPoint_U_T1_015100_20140812_080000,0,0,1,7,anthrophony,1-dawn,Maine
+126,Wells_PilgerPoint_U_T1_015100_20140819_073000,1,1,1,7,anthrophony,1-dawn,Maine
+127,Wells_PilgerPoint_U_T1_015100_20140827_073000,1,0,1,7,anthrophony,1-dawn,Maine
+130,Wells_PilgerPoint_U_T1_015100_20140918_073000,1,0,1,7,anthrophony,1-dawn,Maine
+133,Wells_PilgerPoint_U_T1_015100_20141009_073000,0,1,1,7,anthrophony,1-dawn,Maine
+134,Wells_PilgerPoint_U_T1_015100_20141010_070000,0,1,1,7,anthrophony,1-dawn,Maine
+135,Wells_PilgerPoint_U_T1_015100_20141013_070000,0,1,0,7,anthrophony,1-dawn,Maine
+136,Wells_PilgerPoint_U_T1_015100_20141014_063000,0,0,1?,7,anthrophony,1-dawn,Maine
+138,Wells_PilgerPoint_U_T1_015100_20141103_083000,1,0,1,7,anthrophony,1-dawn,Maine
+155,Wells_PilgerPoint_U_T3_015100_20140512_203000,1,0,0,4,biophony,3-dusk,Maine
+167,Wells_PilgerPoint_U_T3_015100_20140906_203000,1,0,0,4,biophony,3-dusk,Maine
+159,Wells_PilgerPoint_U_T3_015100_20140810_183000,1,1,0,6,geophony,3-dusk,Maine
+160,Wells_PilgerPoint_U_T3_015100_20140813_190000,0,1,0,6,geophony,3-dusk,Maine
+161,Wells_PilgerPoint_U_T3_015100_20140815_193000,1,1,0,6,geophony,3-dusk,Maine
+162,Wells_PilgerPoint_U_T3_015100_20140819_183000,0,1,0,6,geophony,3-dusk,Maine
+153,Wells_PilgerPoint_U_T3_015100_20140505_180000,1,1,1,7,anthrophony,3-dusk,Maine
+154,Wells_PilgerPoint_U_T3_015100_20140507_200000,0,0,1,7,anthrophony,3-dusk,Maine
+156,Wells_PilgerPoint_U_T3_015100_20140607_203000,1,1,0,7,anthrophony,3-dusk,Maine
+157,Wells_PilgerPoint_U_T3_015100_20140620_193000,0,1,0,7,anthrophony,3-dusk,Maine
+158,Wells_PilgerPoint_U_T3_015100_20140626_183000,0,1,1,7,anthrophony,3-dusk,Maine
+163,Wells_PilgerPoint_U_T3_015100_20140824_193000,0,1,1,7,anthrophony,3-dusk,Maine
+164,Wells_PilgerPoint_U_T3_015100_20140826_203000,0,0,1,7,anthrophony,3-dusk,Maine
+165,Wells_PilgerPoint_U_T3_015100_20140829_193000,0,1,1,7,anthrophony,3-dusk,Maine
+166,Wells_PilgerPoint_U_T3_015100_20140830_193000,0,1,1,7,anthrophony,3-dusk,Maine
+168,Wells_PilgerPoint_U_T3_015100_20140916_190000,0,1,1,7,anthrophony,3-dusk,Maine
+169,Wells_PilgerPoint_U_T3_015100_20141007_183000,0,1,0,7,anthrophony,3-dusk,Maine
+170,Wells_PilgerPoint_U_T3_015100_20141013_203000,1,1,1,7,anthrophony,3-dusk,Maine
+176,Wells_PilgerPoint_U_T4_015100_20140822_010000,1,0,1,4,biophony,4-late evening,Maine
+178,Wells_PilgerPoint_U_T4_015100_20140921_233000,1,0,0,4,biophony,4-late evening,Maine
+171,Wells_PilgerPoint_U_T4_015100_20140606_233000,1,1,0,6,geophony,4-late evening,Maine
+172,Wells_PilgerPoint_U_T4_015100_20140626_003000,1,1,0,6,geophony,4-late evening,Maine
+173,Wells_PilgerPoint_U_T4_015100_20140721_230000,0,1,0,6,geophony,4-late evening,Maine
+175,Wells_PilgerPoint_U_T4_015100_20140806_013000,0,1,0,6,geophony,4-late evening,Maine
+177,Wells_PilgerPoint_U_T4_015100_20140914_003000,0,1,0,6,geophony,4-late evening,Maine
+174,Wells_PilgerPoint_U_T4_015100_20140802_000000,0,1,1,7,anthrophony,4-late evening,Maine
+179,Wells_PilgerPoint_U_T4_015100_20140925_233000,1,0,1,7,anthrophony,4-late evening,Maine
+180,Wells_PilgerPoint_U_T4_015100_20140928_003000,0,0,1,7,anthrophony,4-late evening,Maine
+152,Wells_PilgerPoint_U_T2_015100_20141101_130000,1,1,1,6,geophony,2-midday,Maine
+139,Wells_PilgerPoint_U_T2_015100_20140505_120000,0,1,1,7,anthrophony,2-midday,Maine
+140,Wells_PilgerPoint_U_T2_015100_20140507_123000,0,1,1,7,anthrophony,2-midday,Maine
+141,Wells_PilgerPoint_U_T2_015100_20140508_123000,1,0,1,7,anthrophony,2-midday,Maine
+142,Wells_PilgerPoint_U_T2_015100_20140512_120000,1,0,1?,7,anthrophony,2-midday,Maine
+143,Wells_PilgerPoint_U_T2_015100_20140607_120000,1,0,1,7,anthrophony,2-midday,Maine
+144,Wells_PilgerPoint_U_T2_015100_20140826_133000,0,0,1,7,anthrophony,2-midday,Maine
+145,Wells_PilgerPoint_U_T2_015100_20140903_110000,0,0,0,7,anthrophony,2-midday,Maine
+146,Wells_PilgerPoint_U_T2_015100_20140904_113000,1,0,0,7,anthrophony,2-midday,Maine
+147,Wells_PilgerPoint_U_T2_015100_20140905_113000,0,0,1,7,anthrophony,2-midday,Maine
+148,Wells_PilgerPoint_U_T2_015100_20140912_113000,1,0,1,7,anthrophony,2-midday,Maine
+149,Wells_PilgerPoint_U_T2_015100_20141004_130000,0,1,1,7,anthrophony,2-midday,Maine
+150,Wells_PilgerPoint_U_T2_015100_20141010_110000,0,0,1,7,anthrophony,2-midday,Maine
+151,Wells_PilgerPoint_U_T2_015100_20141029_113000,0,0,1,7,anthrophony,2-midday,Maine
