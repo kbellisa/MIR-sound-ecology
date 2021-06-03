@@ -1,0 +1,158 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 #September 30, 2016\
+#Kristen Bellisario & Jarrod Doucette\
+#Sonic Annotator codes\
+\
+# get all the files in readable order\
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1\fs22 \cf0 ffmpeg -r -ss 0 -i /Volumes/G-Raid\\ with \\Thunderbolt/SoundEcology_R/METRICSsoundBank/SubSample_Qualtrics -t 10 /Volumes/G-Raid\\with\\Thunderbolt/SoundEcology_R/METRICSsoundBank/10SecondSubsamples\
+\
+# extract features from Arizona - RandomSample_UndisturbedCollection\
+AZ - METRICSsoundBank - Sonic Annotator - Arizona Random Sample Feature Extraction
+\f0\fs24 \
+
+\f1\fs22 \
+Vamp/n3/\'85List
+\f0\fs24 \
+
+\f1\fs22 \
+spectral_centroid.n3
+\f0\fs24 \
+
+\f1\fs22 spectralinharmonicity.n3
+\f0\fs24 \
+
+\f1\fs22 spectralskewness.n3
+\f0\fs24 \
+
+\f1\fs22 spectralslope.n3
+\f0\fs24 \
+
+\f1\fs22 spectralspread.n3
+\f0\fs24 \
+
+\f1\fs22 spectralvariance.n3
+\f0\fs24 \
+\
+
+\f1\fs22 sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectral_centroid.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/AZ_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/AZ_FE/AZ_SC
+\f0\fs24 \
+
+\f1\fs22 \
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralinharmonicity.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/AZ_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/AZ_FE/AZ_In
+\f0\fs24 \
+
+\f1\fs22 \
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralskewness.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/AZ_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/AZ_FE/AZ_Sk
+\f0\fs24 \
+
+\f1\fs22 \
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralslope.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/AZ_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/AZ_FE/AZ_Sl
+\f0\fs24 \
+
+\f1\fs22 \
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralspread.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/AZ_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/AZ_FE/AZ_Sp
+\f0\fs24 \
+
+\f1\fs22 \
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralvariance.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/AZ_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/AZ_FE/AZ_Var\
+\
+#extract from MAINE set\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs24 \cf0 \
+ME- METRICSsoundBank - Sonic Annotator - Maine Random Sample Feature Extraction\
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1 \cf0 Vamp/n3/\'85List
+\f0 \
+
+\f1 \
+spectral_centroid.n3
+\f0 \
+
+\f1 spectralinharmonicity.n3
+\f0 \
+
+\f1 spectralskewness.n3
+\f0 \
+
+\f1 spectralslope.n3
+\f0 \
+
+\f1 spectralspread.n3
+\f0 \
+
+\f1 spectralvariance.n3
+\f0 \
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectral_centroid.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/ME_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/ME_FE/ME_SC\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralinharmonicity.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/ME_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/ME_FE/ME_In\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralskewness.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/ME_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/ME_FE/ME_Sk\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralslope.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/ME_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/ME_FE/ME_Sl\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralspread.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/ME_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/ME_FE/ME_Sp\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralvariance.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/ME_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/ME_FE/ME_Var\
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1\fs22 \cf0 #extract from Costa Rica\
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs24 \cf0 CR- METRICSsoundBank - Sonic Annotator - Costa Rica Random Sample Feature Extraction\
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1 \cf0 Vamp/n3/\'85List
+\f0 \
+
+\f1 \
+spectral_centroid.n3
+\f0 \
+
+\f1 spectralinharmonicity.n3
+\f0 \
+
+\f1 spectralskewness.n3
+\f0 \
+
+\f1 spectralslope.n3
+\f0 \
+
+\f1 spectralspread.n3
+\f0 \
+
+\f1 spectralvariance.n3
+\f0 \
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectral_centroid.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/CR_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/CR_FE/CR_SC\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralinharmonicity.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/CR_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/CR_FE/CR_In\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralskewness.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/CR_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/CR_FE/CR_Sk\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralslope.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/CR_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/CR_FE/CR_Sl\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralspread.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/CR_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/CR_FE/CR_Sp\
+\
+sonic-annotator -t /Library/Audio/Plug-Ins/Vamp/n3/spectralvariance.n3 -r /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/RandomSample_Undisturbed/CR_RS -w csv --csv-basedir /Volumes/G-RAID\\ with\\ Thunderbolt/SoundEcology_R/METRICSsoundBank/FeatureExtractions/CR_FE/CR_Var\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f1\fs22 \cf0 \
+\
+\
+\
+}
